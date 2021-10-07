@@ -5,3 +5,5 @@ Ganar la materia
 =======
 La carpeta antes no era reconocida porque estaba vacía, al agregarle un elemento por fin se reconoció y me permitio hacer push.
 >>>>>>> 2eb0f27612b2015e41904324e4466819b5edeb04
+
+Es importante tener cuidado al trabajar en el mismo archiv porque se pueden generar conflictos en el repositorio
