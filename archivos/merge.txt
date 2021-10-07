@@ -1,0 +1,1 @@
+La carpeta antes no era reconocida porque estaba vacía, al agregarle un elemento por fin se reconoció y me permitio hacer push.
