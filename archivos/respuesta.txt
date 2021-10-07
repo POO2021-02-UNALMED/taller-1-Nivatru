@@ -1,0 +1,1 @@
+No se detectó la creación de la carpeta como un cambio en GitHub Desktop, asi que no se pudo hacer push al repositorio remoto
